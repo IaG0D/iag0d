@@ -2,15 +2,7 @@
 
 ----
 
-My name is Iago I'm 21 years old and I'm looking for my developer career while studying in Brazil
-
-### 💻 Stats
-
-----
-<div align = "left">  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=iag0d&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iag0d&layout=compact&theme=tokyonight&locale=pt-br&count_private=true" />
-</div>
+My name is Iago I'm 22 years old and I'm looking for my developer career while studying in Brazil
 
 ### 🔧 My Skills
 
