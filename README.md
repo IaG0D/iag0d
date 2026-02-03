@@ -8,14 +8,6 @@ My name is Iago I'm 22 years old and I have a degree in Software Engineering fro
 
 ![](https://komarev.com/ghpvc/?username=iag0d&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### 🔧 My Skills
-
-----
-
-[![My Skills](https://skillicons.dev/icons?i=js,lua,cs,discord,bots,github,unity)](https://skillicons.dev)
-
-I am passionate about technology and have experience in the technologies mentioned above. I'm always looking for new challenges to improve my skills and contribute to relevant projects.
-
 ### 🐍 Contribution Snake
 
 ----
@@ -26,7 +18,7 @@ I am passionate about technology and have experience in the technologies mention
 
 ----
 
-![Wakatime Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=iag0d&theme=dracula&layout=compact)
+[![WakaTime Stats](https://wakatime.com/share/@IaG0D/49a5f90a-fb39-4e6c-a5d1-a4ee68e6d6c5.svg)](https://wakatime.com/@IaG0D)
 
 ### 🎵 Spotify Now Playing
 
@@ -39,9 +31,3 @@ I am passionate about technology and have experience in the technologies mention
 ----
 
 ![Metrics](https://metrics.lecoq.io/iag0d?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&config.timezone=America%2FSao_Paulo)
-
-### 📈 Activity Graph
-
-----
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iag0d&theme=dracula)
