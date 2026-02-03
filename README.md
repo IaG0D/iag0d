@@ -8,26 +8,14 @@ My name is Iago I'm 22 years old and I have a degree in Software Engineering fro
 
 ![](https://komarev.com/ghpvc/?username=iag0d&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### 🐍 Contribution Snake
+### 📊 GitHub Stats
 
 ----
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/iag0d/iag0d/output/github-contribution-grid-snake.svg)
 
-### ⏱️ WakaTime Stats
-
-----
-
 [![WakaTime Stats](https://wakatime.com/share/@IaG0D/49a5f90a-fb39-4e6c-a5d1-a4ee68e6d6c5.svg)](https://wakatime.com/@IaG0D)
 
-### 🎵 Spotify Now Playing
-
-----
-
-![Spotify](https://novatorem-iag0d.vercel.app/api/spotify)
-
-### 📊 Detailed Metrics
-
-----
-
-![Metrics](https://metrics.lecoq.io/iag0d?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&config.timezone=America%2FSao_Paulo)
+</div>
