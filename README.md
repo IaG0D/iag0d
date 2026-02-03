@@ -2,7 +2,7 @@
 
 ----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Software+Engineer+from+Brazil;Game+Developer+%7C+Unity+%26+Roblox;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Software+Engineer+from+Brazil;Game+Developer+%7C+Fivem+%26+Roblox;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 My name is Iago I'm 22 years old and I have a degree in Software Engineering from Brazil
 
@@ -20,7 +20,7 @@ I am passionate about technology and have experience in the technologies mention
 
 ----
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iag0d&theme=dracula&no-frame=true&row=1&column=7)
+![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=iag0d&theme=dracula&no-frame=true&row=1&column=7)
 
 ### 📊 GitHub Stats
 
@@ -28,12 +28,9 @@ I am passionate about technology and have experience in the technologies mention
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iag0d&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iag0d&layout=compact&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iag0d&show_icons=true&theme=dracula)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iag0d&theme=dracula)
-
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iag0d&show_icons=true&theme=dracula)
 </div>
 
 ### 📈 Activity Graph
