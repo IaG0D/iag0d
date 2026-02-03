@@ -16,22 +16,29 @@ My name is Iago I'm 22 years old and I have a degree in Software Engineering fro
 
 I am passionate about technology and have experience in the technologies mentioned above. I'm always looking for new challenges to improve my skills and contribute to relevant projects.
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 
 ----
 
-![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=iag0d&theme=dracula&no-frame=true&row=1&column=7)
+![Snake animation](https://raw.githubusercontent.com/iag0d/iag0d/output/github-contribution-grid-snake.svg)
 
-### 📊 GitHub Stats
+### ⏱️ WakaTime Stats
 
 ----
 
-<div align="center">
+![Wakatime Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=iag0d&theme=dracula&layout=compact)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iag0d&layout=compact&theme=dracula)
+### 🎵 Spotify Now Playing
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iag0d&show_icons=true&theme=dracula)
-</div>
+----
+
+![Spotify](https://novatorem-iag0d.vercel.app/api/spotify)
+
+### 📊 Detailed Metrics
+
+----
+
+![Metrics](https://metrics.lecoq.io/iag0d?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&config.timezone=America%2FSao_Paulo)
 
 ### 📈 Activity Graph
 
