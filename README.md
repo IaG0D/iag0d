@@ -16,6 +16,4 @@ My name is Iago I'm 22 years old and I have a degree in Software Engineering fro
 
 ![Snake animation](https://raw.githubusercontent.com/iag0d/iag0d/output/github-contribution-grid-snake.svg)
 
-[![WakaTime Stats]([https://wakatime.com/share/@IaG0D/e6fa2698-ab77-4a92-92c8-5380aed78838.svg)](https://wakatime.com/@IaG0D](https://wakatime.com/badge/github/vulpylabs/noescape-lobby.svg))
-
 </div>
